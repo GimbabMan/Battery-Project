@@ -1,0 +1,14 @@
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\bin\Debug\netstandard2.0\BatteryApp_test.deps.json
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\bin\Debug\netstandard2.0\BatteryApp_test.dll
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\bin\Debug\netstandard2.0\ref\BatteryApp_test.dll
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\bin\Debug\netstandard2.0\BatteryApp_test.pdb
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\BatteryApp_test.csprojAssemblyReference.cache
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\BatteryApp_test.csproj.CoreCompileInputs.cache
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\BatteryApp_test.AssemblyInfoInputs.cache
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\BatteryApp_test.AssemblyInfo.cs
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\BatteryApp_test.dll
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\ref\BatteryApp_test.dll
+C:\Coding\Xamarin\BatteryApp_test\BatteryApp_test\obj\Debug\netstandard2.0\BatteryApp_test.pdb
